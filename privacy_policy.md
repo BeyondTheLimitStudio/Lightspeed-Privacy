@@ -9,19 +9,33 @@ Beyond The Limit Studio ("we," "our," or "us") operates the Lightspeed web brows
 
 ## 1. INFORMATION WE COLLECT
 
-Lightspeed is designed with privacy as a core principle. We do NOT collect, store, or transmit any personal information or browsing data to our servers or third parties.
+Lightspeed is designed with privacy as a core principle. We do NOT collect, store, or transmit any personal information or browsing data to our servers.
+
+**Analytics Data:**
+*   We use Firebase Analytics to collect anonymous usage statistics
+*   This includes: app opens, crashes, and basic device information (OS version, device model)
+*   No personally identifiable information is collected
+*   No browsing history, bookmarks, or downloads are tracked
+*   Analytics data is used solely to improve app stability and performance
 
 **Local Storage Only:**
 *   Browsing history is stored locally on your device
 *   Bookmarks are stored locally on your device
 *   Download history is stored locally on your device
 *   Settings and preferences are stored locally on your device
-*   No data is synchronized or uploaded to any external servers
+*   No browsing data is synchronized or uploaded to any external servers
 
 ---
 
 ## 2. HOW WE USE INFORMATION
 
+**Analytics Information:**
+*   Firebase Analytics data is used to understand app usage patterns
+*   Helps us identify and fix crashes
+*   Improves overall app performance and stability
+*   All analytics data is anonymous and cannot be linked to you personally
+
+**Local Data:**
 All information stored by Lightspeed remains on your device and is used solely for:
 *   Providing browser functionality
 *   Maintaining your browsing history for your convenience
@@ -31,8 +45,7 @@ All information stored by Lightspeed remains on your device and is used solely f
 **We do NOT:**
 *   Sell your data to third parties
 *   Share your browsing history with anyone
-*   Track your online activities
-*   Collect analytics or usage statistics
+*   Track your online activities or visited websites
 *   Serve personalized advertisements
 
 ---
